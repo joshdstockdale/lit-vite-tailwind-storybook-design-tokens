@@ -1,0 +1,58 @@
+{
+  "color": {
+    "white": {
+      "value": "rgba(255, 255, 255, 1)",
+      "type": "color"
+    },
+    "gray": {
+      "light": {
+        "value": "rgba(156, 163, 175, 1)",
+        "type": "color"
+      },
+      "medium": {
+        "value": "rgba(107, 114, 128, 1)",
+        "type": "color"
+      },
+      "dark": {
+        "value": "rgba(55, 65, 81, 1)",
+        "type": "color"
+      }
+    },
+    "black": {
+      "value": "rgba(0, 0, 0, 1)",
+      "type": "color"
+    },
+    "green": {
+      "value": "rgba(73, 110, 81, 1)",
+      "type": "color"
+    },
+    "orange": {
+      "value": "rgba(199, 106, 74, 1)",
+      "type": "color"
+    },
+    "red": {
+      "value": "rgba(148, 80, 78, 1)",
+      "type": "color"
+    },
+    "principal": {
+      "value": "rgba(70, 97, 91, 1)",
+      "type": "color"
+    },
+    "highlight": {
+      "value": "rgba(146, 231, 220, 1)",
+      "type": "color"
+    },
+    "muted": {
+      "value": "rgba(101, 150, 142, 1)",
+      "type": "color"
+    },
+    "dark": {
+      "value": "rgba(49, 67, 63, 1)",
+      "type": "color"
+    },
+    "gradient": {
+      "value": "linear-gradient(0deg, {color.muted.value} 0%, {color.principal.value} 100%)",
+      "type": "color"
+    }
+  }
+}

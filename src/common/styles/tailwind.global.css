@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .disabled {
+    @apply cursor-not-allowed focus:outline-none disabled:opacity-50 hover:bg-transparent;
+  }
+  h1 {
+    @apply text-3xl;
+  }
+  :root {
+    --red: 28;
+    --green: 150;
+    --blue: 130;
+
+    --accessible-color: calc(
+      (
+          (
+              ((var(--red) * 299) + (var(--green) * 587) + (var(--blue) * 114)) /
+                1000
+            ) - 128
+        ) * -1000
+    );
+  }
+}
+

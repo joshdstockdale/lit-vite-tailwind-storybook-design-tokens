@@ -1,0 +1,10 @@
+{
+  "font": {
+    "headings": {
+      "table": {
+        "fontSize": { "value": "24px" },
+        "fontWeight": { "value": "500" }
+      }
+    }
+  }
+}

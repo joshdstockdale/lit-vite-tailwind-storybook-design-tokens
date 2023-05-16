@@ -1,0 +1,22 @@
+{
+  "font": {
+    "base": {
+      "fontFamily": {
+        "value": "Source Sans Pro",
+        "type": "font"
+      },
+      "fontSize": {
+        "value": 14,
+        "type": "font"
+      },
+      "fontWeight": {
+        "value": "300",
+        "type": "font"
+      },
+      "lineHeight": {
+        "value": "1.5",
+        "type": "font"
+      }
+    }
+  }
+}

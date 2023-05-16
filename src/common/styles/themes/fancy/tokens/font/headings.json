@@ -1,0 +1,10 @@
+{
+  "font": {
+    "headings": {
+      "h1": {
+        "fontSize": { "value": "24px" },
+        "fontWeight": { "value": "500" }
+      }
+    }
+  }
+}
